@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/eCheqs/libraries/ChequeUtils.sol": "ChequeUtils"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/eCheqs/libraries/ChequeUtils.sol": {
+			"keccak256": "0x1a9642184dca488179f00fd25c200ba7d9cf18c551cd2b1cfbda725dcf3c75fc",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c1b8750bcd2cb52dbec8451143d36fa2bfcab9f3afb2fe91e86128826b0cd890",
+				"dweb:/ipfs/QmTj8CvDBVcmMbnqi8YwvBfRH53Vr36icZiwotWibQvjWx"
+			]
+		}
+	},
+	"version": 1
+}
